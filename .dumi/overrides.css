@@ -49,3 +49,8 @@
         transform: rotate(-6deg);
     }
 }
+
+
+.dumi-default-features-item {
+    text-align: center;
+}

@@ -1,25 +1,21 @@
 ---
-title: 谥号
+title: 现代皇帝
 hero:
-  title: 谥号
-  description: 为皇帝们研发而生的站点
+  title: 现代皇帝
+  description: 为现代皇帝们研发而生的站点 - 记录皇帝的行为和语录
   actions:
-    - text: 秦始皇
-      link: /
-    - text: 武则天
-      link: /
+    - text: 皇帝列表
+      link: /herolist
+    - text: GitHub
+      link: https://github.com/1974892005/Emperor
 features:
-  - title: Hello
-    emoji: 💎
-    description: Put hello description here
-  - title: World
-    emoji: 🌈
-    description: Put world description here
-  - title: '!'
+  - title: 更好的编译性能
     emoji: 🚀
-    description: Put ! description here
+    description: 我要的是结果，别跟我说过程！
+  - title: 快速的开发进度
+    emoji: ⚡️
+    description: 无论项目大小如何，都始终极快的周期开发
+  - title: 7*24小时服务
+    emoji: ⏰
+    description: 回信息啊？装死是吧？ 搞啥呢！<br /> 上线了没有,这周之内搞完！
 ---
-
-<div class="flex justify-center items-center">
-  <img data-type="dingtalk" src="/qsh.webp" width="300" />
-</div>
