@@ -2,7 +2,7 @@
 title: 项目愿景
 order: -1
 group:
-  title: 介绍
+  title: 起始季
   order: -1
 ---
 
